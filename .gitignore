@@ -14,4 +14,4 @@ docs/
 .env
 cache
 
-lib
+lib/
